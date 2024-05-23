@@ -1,7 +1,7 @@
 {
-  "name": "Utopia",
-  "version": "1.0.0",
-  "description": "Epic proxy",
+  "name": "RBR-uptop",
+  "version": "1.4.0",
+  "description": "A RBR meta",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/EpicProgrammingPerson/Utopia-Beta.git"
+    "url": "git://github.com/EpicProgrammingPerson/Uptop.git"
   },
   "keywords": [],
   "author": "",
