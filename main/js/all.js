@@ -62,3 +62,6 @@ document.addEventListener('visibilitychange', function (event) {
   }
 
 });
+
+
+quickGo("https://rocketbotroyale.winterpixel.io/")
